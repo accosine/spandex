@@ -1,11 +1,11 @@
 {
   "name": "spandex",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "MVC layer over bare",
   "main": "app.js",
   "dependencies": {
     "react": "^0.11.1",
-    "bare": "0.0.1"
+    "bare": "0.0.2"
   },
   "repository": {
     "type": "git",
